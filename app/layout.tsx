@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Guzelahmetler Studio",
+  title: "Guzelahmetler Studios",
   description:
     "Game studio that brings you the best creations of Mr.Guzelahmetler, a gamer who dedicated his life to make games that gamers would enjoy",
 };
